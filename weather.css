@@ -55,6 +55,7 @@ h1{
     font-family: monospace;
     font-size: 10px;
     color: whitesmoke;
+    position: relative;
 }
 b{
     font-size: 30px;
